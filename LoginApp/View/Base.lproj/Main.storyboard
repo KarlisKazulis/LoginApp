@@ -273,7 +273,7 @@
             <size key="intrinsicContentSize" width="64" height="33"/>
         </designable>
         <designable name="U7b-5Z-F69">
-            <size key="intrinsicContentSize" width="87.5" height="24"/>
+            <size key="intrinsicContentSize" width="127.5" height="24"/>
         </designable>
         <designable name="Vnh-MT-7bv">
             <size key="intrinsicContentSize" width="117" height="26"/>
@@ -282,7 +282,7 @@
             <size key="intrinsicContentSize" width="30" height="45"/>
         </designable>
         <designable name="lSP-EP-QDz">
-            <size key="intrinsicContentSize" width="84.5" height="23"/>
+            <size key="intrinsicContentSize" width="124.5" height="23"/>
         </designable>
     </designables>
     <resources>
